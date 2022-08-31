@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForUpgrade.Android", "CheckForUpgrade.Android\CheckForUpgrade.Android.csproj", "{43A77B3D-3D32-4104-8570-4AD1608CC419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForUpgrade", "CheckForUpgrade\CheckForUpgrade.csproj", "{53B6ABAE-2427-407B-B6A7-189E07EA1974}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18BFD934-F73B-4860-8E7F-4B56D180ADDF}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A77B3D-3D32-4104-8570-4AD1608CC419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A77B3D-3D32-4104-8570-4AD1608CC419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A77B3D-3D32-4104-8570-4AD1608CC419}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{43A77B3D-3D32-4104-8570-4AD1608CC419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A77B3D-3D32-4104-8570-4AD1608CC419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A77B3D-3D32-4104-8570-4AD1608CC419}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{53B6ABAE-2427-407B-B6A7-189E07EA1974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B6ABAE-2427-407B-B6A7-189E07EA1974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B6ABAE-2427-407B-B6A7-189E07EA1974}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{53B6ABAE-2427-407B-B6A7-189E07EA1974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B6ABAE-2427-407B-B6A7-189E07EA1974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B6ABAE-2427-407B-B6A7-189E07EA1974}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ADB81D7-1273-45D5-83B5-DC9F08DFDCDC}
+	EndGlobalSection
+EndGlobal

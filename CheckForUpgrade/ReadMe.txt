@@ -1,0 +1,1 @@
+This is an example app on how to run the Android OTA app (or for that matter, probably any other app if appropriate values are used).
